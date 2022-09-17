@@ -16,4 +16,6 @@ if __name__ == '__main__':
 print("OM Namo Narayanaaya")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
+print("Hari Narayana")
+
 print("Madhava maamava deva")
