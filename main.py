@@ -17,3 +17,5 @@ print("OM Namo Narayanaaya")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 print("Hari Narayana")
+
+print("Madhava maamava deva")
