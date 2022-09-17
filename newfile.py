@@ -4,3 +4,5 @@ z=x+y
 print("Sum of x+y: ",x+y)
 
 print("end of code")
+
+print(x)
